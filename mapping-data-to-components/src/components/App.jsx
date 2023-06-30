@@ -24,6 +24,7 @@ function App() {
       {contacts.map(createCard)}
       {/* <Card
         name={contacts[0].name}
+        
         img={contacts[0].imgURL}
         tel={contacts[0].phone}
         email={contacts[0].email}
